@@ -1,8 +1,11 @@
 /*
-Question: What are the top-paying jobs focusing on data?
+Purpose:
+What are the top-paying jobs focusing on data?
 — Identify the top 10 highest—paying roles that are available remotely.
 — Focuses on job postings with specified salaries (remove nulls).
-— Why? Highlight the top—paying opportunities, offering insights into the demand for data-focused roles.
+
+Why?
+Highlight the top—paying opportunities, offering insights into the demand for data-focused roles.
 */
 
 SELECT

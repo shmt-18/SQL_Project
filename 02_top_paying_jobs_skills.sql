@@ -1,7 +1,10 @@
 /*
-Question: What skills are required for the top—paying data focused jobs?
+Purpose:
+What skills are required for the top—paying data focused jobs?
 - Add the specific skills required for these roles
-- Why? It provides a detailed took at which high—paying jobs demand certain skills, helping job seekers understand which skills to develop that align with top salaries
+
+Why?
+It provides a detailed look at which high—paying jobs demand certain skills, helping job seekers understand which skills to develop that align with top salaries
 */
 
 WITH top_paying_jobs AS (
